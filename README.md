@@ -1,3 +1,26 @@
+## ignition_cmake2_vendor (humble) - 0.0.2-3
+
+The packages in the `ignition_cmake2_vendor` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble ignition_cmake2_vendor` on `Thu, 25 Apr 2024 16:56:06 -0000`
+
+The `ignition_cmake2_vendor` package was released.
+
+Version of package(s) in repository `ignition_cmake2_vendor`:
+
+- upstream repository: https://github.com/ignition-release/ignition_cmake2_vendor.git
+- release repository: https://github.com/revyos-ros/gz_cmake2_vendor-release
+- rosdistro version: `0.0.2-2`
+- old version: `0.0.2-2`
+- new version: `0.0.2-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ignition_cmake2_vendor (rolling) - 0.3.0-1
 
 The packages in the `ignition_cmake2_vendor` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling ignition_cmake2_vendor` on `Fri, 08 Mar 2024 01:50:40 -0000`
